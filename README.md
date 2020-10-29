@@ -1,2 +1,2 @@
-# Converting-Imaged-PDF-file-to-txt-file-using-OCR
+# Converting-Imaged-Old-HINDI-PDF-BOOK-to-txt-file-using-OCR
 Python Code for Converting Imaged PDF file to txt file using Pillow, pytesseract and other Libraries
